@@ -1,0 +1,26 @@
+body{
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.history{
+    margin-left: 20px;
+    width:300px;
+    border-style: solid;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    width:400px;
+    margin-bottom: 20px;
+}
+input{
+    height:50px;
+    width:200px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+textarea{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
